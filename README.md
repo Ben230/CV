@@ -14,7 +14,7 @@ After graduating with a degree in Mathematics and successfully completing Makers
 
 - **Fast learner** - In my [final project](https://github.com/Ben230/crawl) at Makers, we chose to use React, Next.js, and Google APIs. No one in my team had experience in either of the three and we had a deadline of two weeks. But we managed to create a usable pub crawl app due to our persistence (and patience).
 - **Team player** - I fit into a team naturally; I am able to follow instructions but can also show leadership. During the Air BnB project, I hosted standups and guided the team for that day. 
-Logical thinker - Being a fan of maths since I can remember, this isn’t surprising. I have methodological approaches to life in general; coding is my favourite thing to do in my spare time.
+- **Logical thinker** - Being a fan of maths since I can remember, this isn’t surprising. I have methodological approaches to life in general; coding is my favourite thing to do in my spare time.
 - **Organised** - Recording my progress helps me learn. I made extensive notes from lectures at university, making sure I covered every corner of all the modules. I also created [daily goals](https://docdro.id/ZcmAJCs) at Makers which helped me reflect on my learning.
 - **Effectively handle blockers** - This is the main thing I took away from studying at Makers. When you run into a problem you can’t solve quickly, make sure you keep a calm head and follow a logical debugging process.
 - **Creative** - I used to drum in a couple of bands and I can play the piano. I feel my creativity trickles down to my code whenever it can. For example, in the final project I really pressed for an  ‘open in gmaps’ feature that was praised by my team after the presentations.
